@@ -1,0 +1,11 @@
+,Principal Component,Score,Rank,1_largest_var,1_largest_val,2_largest_var,2_largest_val,3_largest_var,3_largest_val
+0,PC-62,1.3072018566,1,AreaShape_Zernike_8_2,0.3958263933963099,AreaShape_Zernike_4_0,-0.2683092328106847,AreaShape_NormalizedMoment_3_3,0.2569866105233327
+1,PC-13,1.2059003257,2,Neighbors_NumberOfNeighbors_8,0.4074157087646018,Neighbors_PercentTouching_8,0.3825417857517794,Neighbors_SecondClosestDistance_8,-0.3152518451508653
+2,PC-34,0.4770876262,8,AreaShape_Zernike_5_1,0.4404031163098431,AreaShape_Zernike_5_5,0.3806812365178226,Neighbors_PercentTouching_8,-0.3153015254239257
+3,PC-40,0.8588718698,3,AreaShape_Orientation,-0.4414030468531474,AreaShape_CentralMoment_1_3,-0.3829724365932275,AreaShape_NormalizedMoment_3_3,-0.2819010485019346
+4,PC-41,0.5402881557,7,AreaShape_Zernike_6_2,0.5320309015951302,AreaShape_Zernike_9_7,-0.3201811003101552,AreaShape_Zernike_1_1,-0.2803161312903882
+5,PC-17,0.3522785203,9,AreaShape_Zernike_1_1,0.3880468423217746,AreaShape_NormalizedMoment_0_3,0.3789736512479392,AreaShape_NormalizedMoment_2_3,0.336783335887865
+6,PC-14,0.704661715,5,AreaShape_NormalizedMoment_1_2,-0.3864197234362372,AreaShape_NormalizedMoment_3_2,-0.3482328882404118,AreaShape_CentralMoment_1_3,0.3238612219565678
+7,PC-10,0.2773207188,10,AreaShape_Zernike_2_2,-0.4112160139535349,AreaShape_Eccentricity,-0.2847110093952496,AreaShape_Zernike_4_2,-0.2407369885084875
+8,PC-60,0.7792872502,4,AreaShape_NormalizedMoment_1_2,-0.4312368596329239,AreaShape_NormalizedMoment_3_2,0.4219802096370247,AreaShape_Extent,0.3064001939385233
+9,PC-11,0.583101882,6,AreaShape_NormalizedMoment_2_1,-0.3824254172981633,AreaShape_CentralMoment_2_1,-0.3685410725106146,AreaShape_NormalizedMoment_2_3,-0.3144282861172212
